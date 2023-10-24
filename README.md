@@ -2,4 +2,4 @@
 
 ## Overview
 
-![screenshot](./screenshot.png)
+![screenshot](.github/screenshot.png)
